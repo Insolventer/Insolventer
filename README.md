@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on https://discord.gg/NetherSMP<br><br>🌱 I’m currently learning Kotlin
 
 
 ## 🌐 Socials:
